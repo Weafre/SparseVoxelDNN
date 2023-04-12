@@ -1,0 +1,267 @@
+NO ATTRIBUTE/COLOR CODEC IS IMPLEMENTED
+
+
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 3227.899 ms
+Loaded models....
+Encoding:  362  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/phil_0010.ply
+Encoding time:  9.794398069381714
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 1559008
+Occ bitstream:  Output/phil_0010/icip_no_da.occ.bin
+Color bitstream:  Output/phil_0010/icip_no_da.color.bin
+Metadata bitstream Output/phil_0010/icip_no_da.metadata.bin
+Encoding information:  Output/phil_0010/icip_no_da.info.pkl
+Metadata and file size(in bits):  14432 602992
+Average occ bits per occupied voxels: 0.3960
+Average color bits per occupied voxels: 0.0093
+Average bits per occupied voxels: 0.3960
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 1917.301 ms
+Loaded models....
+Encoding:  204  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/ricardo_0010.ply
+Encoding time:  6.3115315437316895
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 956482
+Occ bitstream:  Output/ricardo_0010/icip_no_da.occ.bin
+Color bitstream:  Output/ricardo_0010/icip_no_da.color.bin
+Metadata bitstream Output/ricardo_0010/icip_no_da.metadata.bin
+Encoding information:  Output/ricardo_0010/icip_no_da.info.pkl
+Metadata and file size(in bits):  8352 335504
+Average occ bits per occupied voxels: 0.3595
+Average color bits per occupied voxels: 0.0087
+Average bits per occupied voxels: 0.3595
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 1468.938 ms
+Loaded models....
+Encoding:  177  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/redandblack_vox10_1510.ply
+Encoding time:  5.485180377960205
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 693899
+Occ bitstream:  Output/redandblack_vox10_1510/icip_no_da.occ.bin
+Color bitstream:  Output/redandblack_vox10_1510/icip_no_da.color.bin
+Metadata bitstream Output/redandblack_vox10_1510/icip_no_da.metadata.bin
+Encoding information:  Output/redandblack_vox10_1510/icip_no_da.info.pkl
+Metadata and file size(in bits):  7220 261920
+Average occ bits per occupied voxels: 0.3879
+Average color bits per occupied voxels: 0.0104
+Average bits per occupied voxels: 0.3879
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 1635.700 ms
+Loaded models....
+Encoding:  209  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/loot_vox10_1000.ply
+Encoding time:  5.936469793319702
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 784142
+Occ bitstream:  Output/loot_vox10_1000/icip_no_da.occ.bin
+Color bitstream:  Output/loot_vox10_1000/icip_no_da.color.bin
+Metadata bitstream Output/loot_vox10_1000/icip_no_da.metadata.bin
+Encoding information:  Output/loot_vox10_1000/icip_no_da.info.pkl
+Metadata and file size(in bits):  8484 251088
+Average occ bits per occupied voxels: 0.3310
+Average color bits per occupied voxels: 0.0108
+Average bits per occupied voxels: 0.3310
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 567.786 ms
+Loaded models....
+Encoding:  63  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/MPEG_Thaidancer_vox10.ply
+Encoding time:  3.016162633895874
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 278641
+Occ bitstream:  Output/MPEG_Thaidancer_vox10/icip_no_da.occ.bin
+Color bitstream:  Output/MPEG_Thaidancer_vox10/icip_no_da.color.bin
+Metadata bitstream Output/MPEG_Thaidancer_vox10/icip_no_da.metadata.bin
+Encoding information:  Output/MPEG_Thaidancer_vox10/icip_no_da.info.pkl
+Metadata and file size(in bits):  2956 86512
+Average occ bits per occupied voxels: 0.3211
+Average color bits per occupied voxels: 0.0106
+Average bits per occupied voxels: 0.3211
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 2083.735 ms
+Loaded models....
+Encoding:  242  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/MPEG_boxer_vox10.ply
+Encoding time:  7.113526105880737
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 995099
+Occ bitstream:  Output/MPEG_boxer_vox10/icip_no_da.occ.bin
+Color bitstream:  Output/MPEG_boxer_vox10/icip_no_da.color.bin
+Metadata bitstream Output/MPEG_boxer_vox10/icip_no_da.metadata.bin
+Encoding information:  Output/MPEG_boxer_vox10/icip_no_da.info.pkl
+Metadata and file size(in bits):  9592 295040
+Average occ bits per occupied voxels: 0.3061
+Average color bits per occupied voxels: 0.0096
+Average bits per occupied voxels: 0.3061
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 3300.453 ms
+Loaded models....
+Encoding:  530  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/MPEG_CAT1_Frog_00067_vox10.ply
+Encoding time:  11.794731855392456
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 1580392
+Occ bitstream:  Output/MPEG_CAT1_Frog_00067_vox10/icip_no_da.occ.bin
+Color bitstream:  Output/MPEG_CAT1_Frog_00067_vox10/icip_no_da.color.bin
+Metadata bitstream Output/MPEG_CAT1_Frog_00067_vox10/icip_no_da.metadata.bin
+Encoding information:  Output/MPEG_CAT1_Frog_00067_vox10/icip_no_da.info.pkl
+Metadata and file size(in bits):  20840 1924592
+Average occ bits per occupied voxels: 1.2310
+Average color bits per occupied voxels: 0.0132
+Average bits per occupied voxels: 1.2310
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 2380.812 ms
+Loaded models....
+Encoding:  906  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/MPEG_CAT1_Arco_Valentino_Dense_vox10.ply
+Encoding time:  14.344565153121948
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 1060489
+Occ bitstream:  Output/MPEG_CAT1_Arco_Valentino_Dense_vox10/icip_no_da.occ.bin
+Color bitstream:  Output/MPEG_CAT1_Arco_Valentino_Dense_vox10/icip_no_da.color.bin
+Metadata bitstream Output/MPEG_CAT1_Arco_Valentino_Dense_vox10/icip_no_da.metadata.bin
+Encoding information:  Output/MPEG_CAT1_Arco_Valentino_Dense_vox10/icip_no_da.info.pkl
+Metadata and file size(in bits):  35096 3181352
+Average occ bits per occupied voxels: 3.0330
+Average color bits per occupied voxels: 0.0331
+Average bits per occupied voxels: 3.0330
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 1896.613 ms
+Loaded models....
+Encoding:  388  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/MPEG_CAT1_Shiva_00035_vox10.ply
+Encoding time:  8.63734745979309
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 900331
+Occ bitstream:  Output/MPEG_CAT1_Shiva_00035_vox10/icip_no_da.occ.bin
+Color bitstream:  Output/MPEG_CAT1_Shiva_00035_vox10/icip_no_da.color.bin
+Metadata bitstream Output/MPEG_CAT1_Shiva_00035_vox10/icip_no_da.metadata.bin
+Encoding information:  Output/MPEG_CAT1_Shiva_00035_vox10/icip_no_da.info.pkl
+Metadata and file size(in bits):  15384 2387048
+Average occ bits per occupied voxels: 2.6684
+Average color bits per occupied voxels: 0.0171
+Average bits per occupied voxels: 2.6684
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 1148.024 ms
+Loaded models....
+Encoding:  225  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/PAULO_bumbameuboi.ply
+Encoding time:  5.5173022747039795
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 523174
+Occ bitstream:  Output/PAULO_bumbameuboi/icip_no_da.occ.bin
+Color bitstream:  Output/PAULO_bumbameuboi/icip_no_da.color.bin
+Metadata bitstream Output/PAULO_bumbameuboi/icip_no_da.metadata.bin
+Encoding information:  Output/PAULO_bumbameuboi/icip_no_da.info.pkl
+Metadata and file size(in bits):  9052 939528
+Average occ bits per occupied voxels: 1.8131
+Average color bits per occupied voxels: 0.0173
+Average bits per occupied voxels: 1.8131
+Using /home/datnguyen/.cache/torch_extensions as PyTorch extensions root...
+Emitting ninja build file /home/datnguyen/.cache/torch_extensions/torchac_backend/build.ninja...
+Building extension module torchac_backend...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+Loading extension module torchac_backend...
+Finished importing
+partition_octree function took 1306.081 ms
+Loaded models....
+Encoding:  248  blocks
+
+
+Encoded file:  ../Datasets/TestPCs/10bits/PAULO_romanoillamp.ply
+Encoding time:  6.0808398723602295
+Models:  Model/OccVoxelDNN/lrsch_accloss/best_model.pt none
+Occupied Voxels: 595951
+Occ bitstream:  Output/PAULO_romanoillamp/icip_no_da.occ.bin
+Color bitstream:  Output/PAULO_romanoillamp/icip_no_da.color.bin
+Metadata bitstream Output/PAULO_romanoillamp/icip_no_da.metadata.bin
+Encoding information:  Output/PAULO_romanoillamp/icip_no_da.info.pkl
+Metadata and file size(in bits):  9920 1173848
+Average occ bits per occupied voxels: 1.9864
+Average color bits per occupied voxels: 0.0166
+Average bits per occupied voxels: 1.9864
